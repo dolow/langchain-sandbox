@@ -9,7 +9,6 @@ from langchain.chat_models import ChatOpenAI
 from langchain.chains import LLMChain, SimpleSequentialChain
 from langchain.prompts import PromptTemplate
 from langchain.vectorstores.faiss import FAISS
-from langchain.text_splitter import CharacterTextSplitter
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.chains.qa_with_sources import load_qa_with_sources_chain
 
