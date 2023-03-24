@@ -1,0 +1,5 @@
+def get_openai_api_key():
+    return "<YOUR OPENAI API KEY>"
+
+def get_langchain_path():
+    return "<LOCAL LANGCHAIN PROJECT PATH>"

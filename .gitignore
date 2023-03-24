@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+
+# python
+__pycache__
+
+# virtualenv
+bin/
+lib/
+pyvenv.cfg
+
+# secure file 
+config/config.py
