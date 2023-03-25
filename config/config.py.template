@@ -3,3 +3,11 @@ def get_openai_api_key():
 
 def get_langchain_path():
     return "<LOCAL LANGCHAIN PROJECT PATH>"
+
+
+def get_google_api_key():
+    return "<YOUR GOOGLE API KEY>"
+
+
+def get_google_custom_search_engine_id():
+    return "<YOUR GOOGLE CUSTOM SEARCH ENGINE ID>"
