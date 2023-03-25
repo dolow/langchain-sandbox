@@ -8,6 +8,8 @@ This repository is my play ground for [langchain](https://github.com/hwchase17/l
 Prepare followings;
 
 - Your OpenAI API Key
+- Your Google Cloud Project API key
+- Your Google Programmable Search Engine ID
 - clone directory of [langchain](https://github.com/hwchase17/langchain)
 
 Copy config file template, then fill strings with above information.
